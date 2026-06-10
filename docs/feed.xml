@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wöchentliche KI-News</title>
+    <link>https://fevers-design.github.io/ki-news-feed</link>
+    <atom:link href="https://fevers-design.github.io/ki-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>de</language>
+    <description>Jede Woche die wichtigsten KI-Nachrichten und Forschungsbeiträge, automatisch zusammengefasst und vertont.</description>
+    <itunes:author>KI-News-Bot</itunes:author>
+    <itunes:summary>Jede Woche die wichtigsten KI-Nachrichten und Forschungsbeiträge, automatisch zusammengefasst und vertont.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://fevers-design.github.io/ki-news-feed/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>KI-News-Bot</itunes:name>
+      <itunes:email>eversf05@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Wed, 10 Jun 2026 21:46:07 +0000</lastBuildDate>
+<!-- ITEMS -->
+    <item>
+      <title>KI-News – 10.06.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-10.mp3" length="3826944" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-10.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 21:46:07 +0000</pubDate>
+      <itunes:duration>3:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
