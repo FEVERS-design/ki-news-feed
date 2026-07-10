@@ -17,16 +17,16 @@
       <itunes:name>KI-News-Bot</itunes:name>
       <itunes:email>eversf05@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 03 Jul 2026 17:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:50:09 +0000</lastBuildDate>
 <!-- ITEMS -->
     <item>
-      <title>KI-News – 03.07.2026</title>
+      <title>KI-News – 10.07.2026</title>
       <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
       <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
-      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-03.mp3" length="10311168" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-03.mp3</guid>
-      <pubDate>Fri, 03 Jul 2026 17:29:04 +0000</pubDate>
-      <itunes:duration>10:44</itunes:duration>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-10.mp3" length="10964736" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-10.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 17:50:09 +0000</pubDate>
+      <itunes:duration>11:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
