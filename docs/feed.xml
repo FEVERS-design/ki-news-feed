@@ -17,7 +17,7 @@
       <itunes:name>KI-News-Bot</itunes:name>
       <itunes:email>eversf05@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 17 Jul 2026 17:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 15:38:49 +0000</lastBuildDate>
 <!-- ITEMS -->
     <item>
       <title>KI-News – 17.07.2026</title>
@@ -25,8 +25,68 @@
       <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
       <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-17.mp3" length="12251904" type="audio/mpeg"/>
       <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-17.mp3</guid>
-      <pubDate>Fri, 17 Jul 2026 17:15:50 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 17:15:00 +0000</pubDate>
       <itunes:duration>12:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 10.07.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-10.mp3" length="10964736" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-10.mp3</guid>
+      <pubDate>Fri, 10 Jul 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 03.07.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-03.mp3" length="10311168" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-03.mp3</guid>
+      <pubDate>Fri, 03 Jul 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 26.06.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-26.mp3" length="8828160" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-26.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>9:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 19.06.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-19.mp3" length="10310784" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-19.mp3</guid>
+      <pubDate>Fri, 19 Jun 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 12.06.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-12.mp3" length="15112320" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-12.mp3</guid>
+      <pubDate>Fri, 12 Jun 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>15:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-News – 10.06.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-10.mp3" length="7458432" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-06-10.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>7:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
