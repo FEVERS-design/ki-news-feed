@@ -17,8 +17,18 @@
       <itunes:name>KI-News-Bot</itunes:name>
       <itunes:email>eversf05@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 22 Jul 2026 15:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:40:30 +0000</lastBuildDate>
 <!-- ITEMS -->
+    <item>
+      <title>KI-News – 24.07.2026</title>
+      <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
+      <itunes:summary>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</itunes:summary>
+      <enclosure url="https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-24.mp3" length="14147712" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://fevers-design.github.io/ki-news-feed/episodes/ki-news-2026-07-24.mp3</guid>
+      <pubDate>Fri, 24 Jul 2026 17:40:30 +0000</pubDate>
+      <itunes:duration>14:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>KI-News – 17.07.2026</title>
       <description>Die wichtigsten KI-Entwicklungen der Woche, automatisch zusammengefasst.</description>
